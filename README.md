@@ -1,2 +1,2 @@
-# movies-API
-Creating CRUD Application in Express JS without DB
+# quotes-API
+Creating My-Quotes Application in Express JS
